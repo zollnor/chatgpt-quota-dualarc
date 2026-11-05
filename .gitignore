@@ -1,0 +1,29 @@
+# Generated on the user's computer. Never distribute these files.
+state/
+*.lnk
+*.ico
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.tmp
+*.zip
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite*
+auth.json
+credentials.json
+Cookies
+Local State
+*profile*/
+work/
+archive/
+.DS_Store
+Thumbs.db
+desktop.ini

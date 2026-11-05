@@ -1,0 +1,4 @@
+# Preserve the exact audited bytes, including the PowerShell UTF-8 BOM.
+* -text
+*.png binary
+*.gif binary
